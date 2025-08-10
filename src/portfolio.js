@@ -24,9 +24,9 @@ const greeting = {
   logo_name: "SulemanAhmadzai",
   nickname: "Ahmadzai",
   subTitle:
-    "I'm a Full Stack Developer dedicated to building engaging and effective web applications. My passion for tech drives me to continually learn and innovate in the digital world.",
+    "Software Engineer delivering end-to-end solutions—clear UX, solid architecture, real-world impact.",
   resumeLink:
-    "https://drive.google.com/file/d/13OjT7jcTPFHH3mUXfFVF2JeFE6I6N9kD/view?usp=drive_link",
+    "https://drive.google.com/file/d/19JdAUcBnajnLVoGwPM1aY-0o5xIDk0YU/view?usp=sharing",
   portfolio_repository: "https://github.com/sulemanahmadzai",
   githubProfile: "https://github.com/sulemanahmadzai",
 };

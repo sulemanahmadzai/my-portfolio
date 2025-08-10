@@ -6,15 +6,15 @@
 }
 .greet-main {
   width: 90%;
-  padding: 20px 10px;
+  padding: 10px 10px;
   margin: 0px auto;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .gretting-main {
   width: 90%;
   padding: 20px 10px;
-  margin: 0px auto;
+  margin: 10px auto;
 }
 
 .greeting-main {
@@ -23,7 +23,7 @@
 
 .greeting-main > * {
   flex: 1;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .button-greeting-div {
   display: flex;
@@ -31,7 +31,7 @@
 }
 
 .greeting-text {
-  margin-top: 80px;
+  margin-top: 20px;
   font-size: 70px;
   line-height: 1.1;
   font-family: "Google Sans Bold";
